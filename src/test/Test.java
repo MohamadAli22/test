@@ -18,7 +18,7 @@ public class Test {
         // TODO code application logic here
     }
     
-    public static void testFunction(String s){
+    public static void testFunction2(String ss, int ii){
         
     }
     
