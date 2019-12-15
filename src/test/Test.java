@@ -23,7 +23,7 @@ public class Test {
         
     }
     
-    public static void testFunction3(String ss, int ii){
+    public static void testFunction3(String ss, int i){
     }
     
     public static void testFunction3(){
