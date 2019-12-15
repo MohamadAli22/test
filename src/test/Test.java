@@ -32,7 +32,7 @@ public class Test {
     }
     
     
-    public static void testFunction3(float iii){
+    public static void testFunction3(final float iii){
         int testVariable = 123;
         String testVariable2 = "123";
     }
