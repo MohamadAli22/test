@@ -14,7 +14,7 @@ public class Test {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
+    public    static void  main (String[   ] args) {
         // TODO code application logic here
     }
     
@@ -22,4 +22,9 @@ public class Test {
         
     }
     
+    public static void testFunction3(String ss, int ii, boolean bb){
+        int testVariable = 123;
+        String testVariable2 = "123";
+        testFunction2("ddddd", testVariable);
+    }
 }
