@@ -18,19 +18,16 @@ public class Test {
         // TODO code application logic here
     }
     
-    public static void testFunction2(String ss, int ii){
+    
+    public static void testFunction3(String ss, int ii, boolean bb){
         
     }
     
-    public static void testFunction3(String ss, int ii, boolean bb){
-        int testVariable = 123;
-        String testVariable2 = "123";
-        testFunction2("ddddd", testVariable);
+    public static void testFunction3(String ss, int ii){
     }
     
-    public static void testFunction3(String ss, int ii){
+    public static void testFunction3(){
         int testVariable = 123;
         String testVariable2 = "123";
-        testFunction2("ddddd", testVariable);
     }
 }
