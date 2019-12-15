@@ -30,4 +30,11 @@ public class Test {
         int testVariable = 123;
         String testVariable2 = "123";
     }
+    
+    public static void testFunction3(int i){
+        int testVariable = 123;
+        String testVariable2 = "123";
+    }
+    
+    
 }
