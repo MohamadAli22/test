@@ -31,10 +31,10 @@ public class Test {
         String testVariable2 = "123";
     }
     
-    public static void testFunction3(int i){
+    
+    public static void testFunction3(float iii){
         int testVariable = 123;
         String testVariable2 = "123";
     }
-    
     
 }
