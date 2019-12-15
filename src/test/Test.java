@@ -27,4 +27,10 @@ public class Test {
         String testVariable2 = "123";
         testFunction2("ddddd", testVariable);
     }
+    
+    public static void testFunction3(String ss, int ii){
+        int testVariable = 123;
+        String testVariable2 = "123";
+        testFunction2("ddddd", testVariable);
+    }
 }
